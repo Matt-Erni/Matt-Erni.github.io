@@ -1,21 +1,28 @@
 body {
-    background:rgb(75, 248, 75);
+    background:#C7D4D9;
     font-family:Arial, Helvetica, sans-serif
 }
 
 .assignment {
-    background: paleturquoise;
+    background: #594A3C;
     padding: 10px;
     margin: 10px;
-    background: lightblue
+    background: #BF2C38
 }
 
 .assignment img {
     width: 100px
     padding 10px;
+    border: 2px solid #C7D4D9
+    margin-right 20px;
 }
 
 h1 {
-    color: red (3, 44, 58);
+    color: #59070E;
     text-align: center;
+}
+
+a{
+   text-decoration:none;
+   color:#FAEBD7
 }
